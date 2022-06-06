@@ -1,4 +1,4 @@
-# MSH-TESTER  
+# MINISHELL TESTER C CBERGANZ  
 *Tester for shool21 (ecole42) project "minishell"*
 
 ## Requirements
